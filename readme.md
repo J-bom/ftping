@@ -25,7 +25,7 @@ git clone https://github.com/J-bom/ftping.git
 <p>2. Change into the project's Directory</p>
 
 ```
-cd ftping-main
+cd ftping
 ```
 
 <p>3. Install the Python package dependencies</p>
@@ -54,4 +54,5 @@ Technologies used in the project:
 
 *   Python
 *   Scapy
+
 *   A cpp based version in the future?
